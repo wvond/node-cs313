@@ -1,0 +1,22 @@
+{
+  "name": "project-2",
+  "version": "1.0.0",
+  "description": "Project 2 for cs313",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"test\": \"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wvond/node-cs313.git"
+  },
+  "author": "Will Von Doersten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wvond/node-cs313/issues"
+  },
+  "homepage": "https://github.com/wvond/node-cs313#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
