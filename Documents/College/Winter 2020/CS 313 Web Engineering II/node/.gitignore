@@ -1,0 +1,83 @@
+# Untrack folders
+.config/
+.gitconfig
+.gradle/
+.idlerc/
+        .m2/
+        .node_repl_history
+        .ssh/
+        .viminfo
+        .vscode/
+        3D Objects/
+        AndroidStudioProjects/
+        AppData/
+        BYU-Idaho/
+        CS246/
+        Contacts/
+        Creative Cloud Files/
+        Desktop/
+        235-bnode/
+        235-hash/
+        235-list/
+        235-map/
+        235-node/
+        235-set/
+        235/
+        Adobe/
+        Ankle X-rays/
+        Ardent/
+        Car/
+        Church/
+        BYU-I/
+        Computer Science and Electrical Engineering.pdf
+        Fall 2016/
+        Fall 2017/
+        Fall 2018/
+        Fall 2019/
+        Ilearn test assignment.docx
+        Loan+FAFSA+Rent/
+        Spring 2018/
+        Winter 2017/
+        Winter 2018/
+        Winter 2019/
+        CIT 261/
+        Prove 03 Shopping Cart.docx
+        prove 03.txt
+        web - Shortcut.lnk
+        CS 364 Software Engineering I/
+        REL 250C Jesus Christ and Everlasting Gospel/
+        FDDM 101/
+        Government/
+        High School/
+        Mission Flash Drive/
+        MobaXterm/
+        Old OneDrive/
+        Professional/
+        The Barn/
+        Virtual Machines/
+        Workout/
+        desktop.ini
+        Downloads/
+        Dropbox/
+        Favorites/
+        IdeaProjects/
+        IntelGraphicsProfiles/
+        Links/
+        Music/
+        NTUSER.DAT
+        NTUSER.DAT{42e8a467-791f-11e9-9148-005056c00008}.TM.blf
+        NTUSER.DAT{42e8a467-791f-11e9-9148-005056c00008}.TMContainer00000000000000000001.regtrans-ms
+        NTUSER.DAT{42e8a467-791f-11e9-9148-005056c00008}.TMContainer00000000000000000002.regtrans-ms
+        OneDrive - BYU-Idaho/
+        OneDrive/
+        Pictures/
+        Saved Games/
+        Searches/
+        Videos/
+        _netrc
+        cs313-php/
+        iCloudDrive/
+        ntuser.dat.LOG1
+        ntuser.dat.LOG2
+        ntuser.ini
+        node-js-getting-started/
